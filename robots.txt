@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abtinsolimani.github.io/meli-invite/sitemap.xml
